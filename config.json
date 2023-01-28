@@ -1,0 +1,10 @@
+{
+    "proxylists": {
+        "socks4": [
+            {"url": "https://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks4"},
+            {"url": "https://api.proxyscrape.com/?request=displayproxies&proxytype=socks4"},
+            {"url": "https://api.proxyscrape.com/?request=displayproxies&proxytype=socks4&country=all"},
+            {"url": "https://api.openproxylist.xyz/socks4.txt"}
+        ]
+    }
+}
